@@ -24,13 +24,3 @@ This project demonstrates my **Bash scripting** skills with practical examples o
 ✅ **Fun Scripts**  
 - `ascii_art.sh` → Generates ASCII art from text  
 - `weather.sh` → Fetches weather data using an API  
-
----
-
-## **🔧 Installation**  
-
-Clone the repository and give execute permissions:  
-```bash
-git clone https://github.com/yourusername/bash-utility-toolkit.git
-cd bash-utility-toolkit
-chmod +x scripts/*.sh
