@@ -7,7 +7,6 @@ This project demonstrates my **Bash scripting** skills with practical examples o
 
 ✅ **File Management**  
 - `backup.sh` → Automates file backups with timestamps  
-- `rename_files.sh` → Bulk renames files with a chosen pattern  
 
 ✅ **System Monitoring**  
 - `sys_monitor.sh` → Displays CPU, RAM, and disk usage  
