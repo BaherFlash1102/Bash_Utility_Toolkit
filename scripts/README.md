@@ -1,0 +1,1 @@
+![network basics](../Images/Full_bash.png)
